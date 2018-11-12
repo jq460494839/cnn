@@ -6,5 +6,5 @@ RUN apt update \
         && ln -s /usr/bin/python3 /usr/bin/python \
         && ln -s /usr/bin/pip3 /usr/bin/pip
 
-# ӳ��˿�
+# Ó³Éä¶Ë¿Ú
 EXPOSE 8888
